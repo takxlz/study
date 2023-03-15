@@ -1,2 +1,4 @@
 common
 input test2
+
+child
